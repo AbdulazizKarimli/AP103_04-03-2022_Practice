@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\bin\Debug\netcoreapp3.1\Task.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\Task\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
